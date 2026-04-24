@@ -1,7 +1,7 @@
 # ecommerce-sales-insights-powerbi
 ## End-to-end e-commerce analytics project using Power BI to uncover insights on revenue, delayed deliveries, product performance, and customer trends.
 
-### 🛒 E-Commerce Sales Analysis (Power BI)
+###  E-Commerce Sales Analysis (Power BI)
 #### Project Overview
 
 This project presents an end-to-end analysis of an e-commerce dataset using Power BI. The objective is to derive actionable insights from sales, customer behavior, delivery performance, and product ratings.
@@ -38,7 +38,7 @@ Orders → Customers → Location
 Orders → Payments  
 Orders → Reviews  
 
-#### 📊 Dashboard Features  
+####  Dashboard Features  
 Interactive slicers (Year, Category, State)  
 Top 10 categories by revenue    
 Monthly delayed vs on-time order comparison  
